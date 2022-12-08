@@ -15,6 +15,7 @@ ul {
 }
 
 .status {
+  font-size: 20px;
   margin-bottom: 10px;
 }
 
@@ -22,15 +23,15 @@ ul {
   background: #fff;
   border: 1px solid #999;
   float: left;
-  font-size: 24px;
+  font-size: 40px;
   font-weight: bold;
-  line-height: 34px;
-  height: 34px;
+  line-height: 64px;
+  height: 64px;
+  width: 64px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
 }
 
 .square:focus {
