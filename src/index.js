@@ -30,6 +30,8 @@ class Board extends React.Component {
     );
   }
 
+  // Seguir desde https://es.reactjs.org/tutorial/tutorial.html#picking-a-key
+
   render() {
     return (
       <div>
